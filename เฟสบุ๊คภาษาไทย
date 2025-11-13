@@ -1,0 +1,5 @@
+{
+  "firewall_mode": "strict",
+  "allow_upload": true,
+  "max_download_speed": "10MB/s"
+}
